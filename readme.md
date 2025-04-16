@@ -60,8 +60,8 @@ All code—from data loading through training, evaluation, and final comparison�
 
 1. Clone the repository:
    ```bash
-   git clone <your‑repo‑url>
-   cd <repo‑folder>
+   git clone https://github.com/Kallibek/lightweight-lora-finetune.git
+   cd lightweight-lora-finetune
    ```
 
 2. Create and activate a virtual environment:
